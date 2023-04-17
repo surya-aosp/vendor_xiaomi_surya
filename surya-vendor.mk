@@ -561,12 +561,6 @@ PRODUCT_PACKAGES += \
     libcamera_dirty \
     libcamera_nn_stub \
     libcamera_scene \
-    libcamxfdalgov7 \
-    libcamxfdalgov8 \
-    libcamxfdengine \
-    libcamxstatscore \
-    libcamxswprocessalgo \
-    libcamxtintlessalgo \
     libcdfw \
     libcdfw_remote_api \
     libcdsprpc \
