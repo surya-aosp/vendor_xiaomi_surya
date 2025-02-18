@@ -322,6 +322,7 @@ PRODUCT_PACKAGES += \
     libsnsapi \
     libvpphvx \
     libvpplibrary \
+    libmisoundfx \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
